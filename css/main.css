@@ -1,5 +1,5 @@
 body{
-	background:white;
+	background:#fdfdfd;
 	background-size: cover;
 }
 
@@ -18,7 +18,7 @@ body{
 	width: 100%;
 	margin-left: -0.5em;
 	/*overflow: hidden;*/
-	background: rgba(255,255,255,0.9);
+	background: rgba(253,253,253,0.9);
 	display: block;
 	z-index: 10000;
 }
@@ -77,14 +77,12 @@ body{
 }
 
 .intro-video{
-	margin-top: 15vh;
-	text-align: center;
-	position: relative;
-	left:20vw;
-	/*width: 90vw;
-	height: 70vh;*/
+	top: 50%;	
+	left: 50%;
+	transform: translate(-50%, -50%);
+	position: absolute;
+	height: 60vh;
 	border-radius: 0px;
-	text-align: center;
 }
 
 
@@ -100,7 +98,7 @@ body{
 	width: 40vmax;
 	text-align: left;
 	font-size: 3vmin;
-	background: rgba(255,255,255,0.9);
+	background: rgba(253,253,253,0.9);
 	padding: 3vmin;
 	display: inline-block;
 
@@ -113,7 +111,7 @@ body{
 }
 
 #aboutusdiv h1{
-	background: rgba(255,255,255,0.9);
+	background: rgba(253,253,253,0.9);
 	padding: 3vmin;
 	display: block;
 }
@@ -131,7 +129,7 @@ body{
 	width: 40vw;
 	text-align: left;
 	font-size: 3vmin;
-	background: rgba(255,255,255,0.9);
+	background: rgba(253,253,253,0.9);
 	padding: 2vmin;
 	display: inline-block;
 
@@ -143,7 +141,7 @@ body{
 }
 
 #contactusdiv h1{
-	background: rgba(255,255,255,0.9);
+	background: rgba(253,253,253,0.9);
 	padding: 3vmin;
 	display: block;
 }
