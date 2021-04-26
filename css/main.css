@@ -134,6 +134,10 @@ body{
 	display: inline-block;
 
 }
+#contactusdiv iframe{
+	width: 40vw;
+	height: 50vh;
+}
 
 #contactusdiv img{
 	width: 50vh;

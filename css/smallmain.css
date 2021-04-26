@@ -1,0 +1,168 @@
+	body{
+		background:#fdfdfd;
+		background-size: cover;
+	}
+
+	#contactusdiv p a{
+		text-decoration: none;
+		color: #000;
+	}
+
+	.header .logo{
+		width: 7vh;
+		padding-left: 3vw;
+	}
+	.header{
+		position: fixed;
+		width: 100%;
+		background: rgba(253,253,253,0.9); 
+		z-index: 10000;
+		text-align: center;
+	}
+	.header .header-right{
+		display: block;
+		text-align: center;	
+	}
+
+	.header-right a{
+		padding: 1vh;
+		line-height: 6vh;
+		background: white;
+		font-size: 1.5vmax;
+		font-family: arial;
+		border: 1px solid white;
+		text-decoration: none;
+		border-radius: 4px;
+		color: dodgerblue;
+	}
+
+
+	.header-right .active{
+		background: dodgerblue;
+		color: white;
+	}
+
+	.header-right-border{
+		background: white !important; 
+		border: 1px solid dodgerblue !important;
+		border-radius: 4px !important;
+		color: dodgerblue !important;
+		transition: all 0.3s ease-in-out;
+	}
+
+
+	.company-name{
+		display: inline-block;
+		font-family: arial;
+		font-size: 2vh;
+		color: #70AD47;
+		font-weight: bold;
+		letter-spacing: 0.2vw;
+		text-align: left;
+		padding-right: 3vw;
+		padding-left: 1vw;
+	}
+
+	.company-name-big{
+		display: block;
+		font-size: 4.2vh;
+		color: #ED7D31; 
+		font-weight: bold;
+		letter-spacing: 9vw;
+		text-align: right;
+	}
+
+	#landing-page{
+		height: 100vh;
+	}
+
+	.intro-video img{
+		top: 50%;	
+		left: 50%;
+		transform: translate(-50%, -50%);
+		position: absolute;
+		height: 25.5vmax;
+		border-radius: 0px;
+	}
+
+	#aboutusdiv{
+		font-family: arial;
+		height: 100vh;
+		background-size: cover;
+		display: block;
+	}
+	#aboutusdiv p{
+		font-family: arial;
+		width: 40vmax;
+		text-align: left;
+		font-size: 3vmin;
+		background: rgba(253,253,253,0.9);
+		padding: 3vmin;
+		display: inline-block;
+
+	}
+
+	#aboutusdiv img{
+		width: 80vmin;
+		display: inline-block;
+		vertical-align: top;
+	}
+
+	#aboutusdiv h1{
+		background: rgba(253,253,253,0.9);
+		padding: 3vmin;
+		display: block;
+		margin-top: 10vh;
+		text-align: center;
+	}
+
+	#contactusdiv{
+		font-family: arial;
+		height: 100vh;
+		/*background:url('../img/aboutbackground.jpg') no-repeat center;*/
+		background-size: cover;
+		display: 	block;	
+		
+	}
+	#contactusdiv p{
+		font-family: arial;
+		width: 50vw;
+		font-size: 3vmin;
+		background: rgba(253,253,253,0.9);
+		display: block;
+		float: left;
+		text-align: left;
+		padding-left: 5vw; 
+	}
+
+
+	#contactusdiv h1{
+		background: rgba(253,253,253,0.9);
+		padding: 3vmin;
+		display: block;
+		margin-top: 10vh;
+		text-align: center;
+	}
+
+	.footer{
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	background: rgba(0,0,0 ,0.6 );
+	position: fixed;
+	height: 25px;
+	vertical-align: middle;
+	color: white;
+	font-family: arial;
+	padding-left: 1em;
+	padding-top: 1em;
+	font-weight: bold;
+	font-size: 10px;
+}
+
+.social-icons img{
+	float: right;
+	padding-right: 10px;
+	height: 20px;
+	margin-top: -15px;
+}
