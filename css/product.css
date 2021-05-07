@@ -1,0 +1,134 @@
+body{
+	background: #fff;
+}
+a{
+	text-decoration: none;
+	color: #000;
+}
+
+.sidebar{
+	width: 15vmax;
+	min-width: 150px;
+	height: calc(100vmin - 3.6em - 25px);
+	background: #fff;
+	position: absolute;
+	margin-top: 2.5em;
+	left: 0;
+	color: #000;
+	border-right: 1px dotted dodgerblue;
+	z-index: 1;
+	overflow-y: scroll;
+}
+
+.sidebarHeadings{
+	font-family: arial; 
+	color: white;
+	padding: 0.5em; 
+	background: dodgerblue
+}
+#productArea{
+	left: 0; 
+	width: min(85vmax, calc(100vmax - 150px));
+	height: calc(100vmin - 3.5em - 25px);
+	position: absolute;
+	margin-top: 2.5em;
+	background: #fff;
+	margin-left: max(15vmax, 150px);
+	overflow-y: scroll;
+}
+
+.catogeryList{
+	font-family: sans-serif;
+	width: 90%;
+	transform: translateX(-15%);
+	font-size: 0.8em;
+	
+}
+.catogeryList li{
+	padding: 0.9em;
+}
+.catogeryList li:hover{
+	background: rgba(30,144,255,0.8);
+	color: white;
+	font-weight: bold;
+	font-size: 1.1em;
+	transition-duration: 0.3s;
+}
+
+#brandList{
+	overflow-y:scroll;
+	height: 250px;
+	position: relative;
+	/*width: 150px;*/
+	margin-left: -20px;
+	font-family: arial;
+	font-size: 0.8em;
+}
+
+#brandList li{
+	margin-top: 0.5em;
+	padding: 0.5em;
+}
+
+#brandList li:hover{
+	background: rgba(30,144,255,0.8);
+	color: white;
+	font-weight: bold;
+
+	transition-duration: 0.3s;
+
+}
+
+ul{
+	list-style: none;
+}
+
+
+
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: dodgerblue; 
+  border-radius: 10px;
+}
+
+.product{
+	width:max(15vmax,150px);
+	height: max(15vmax, 150px);
+	background: #fff;
+	border: 1px dotted #fff;
+	margin-left: 0.5vmax;
+	margin-top: 0.5vmax;
+	margin-right: 0;
+	display: inline-block;
+	font-size: 1vmax;
+	font-family: arial;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  /*padding-top: 10px;*/
+  position: relative;
+  font-weight: bold;
+}
+
+/*@media only screen and (orientation:portrait){
+  body {
+    height: 100vw;
+    width: 100vh;
+    transform: rotate(90deg);
+  }
+}*/
