@@ -12,7 +12,7 @@ function showProduct(productClicked){
 										<br>
 										<center><div class="center" style="position:absolute; bottom: 0;display:block !important; width:100%">${productName[0]}</div></center>
 								 </div>`;	
-		}
-				
+		}	
 	});
+	productAreaElement.innerHTML += "<br><br>"		
 }
