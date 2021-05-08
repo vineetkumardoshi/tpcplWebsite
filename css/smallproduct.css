@@ -23,8 +23,8 @@ a{
 .sidebarHeadings{
 	font-family: arial; 
 	color: white;
-	padding: 0.5em; 
-	background: dodgerblue;
+	padding: 0.3em; 
+	background: #ED7D31;
 	font-size: 0.7em;
 }
 #productArea{
@@ -101,7 +101,7 @@ ul{
  
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: dodgerblue; 
+  background: #ED7D31; 
   border-radius: 10px;
   z-index: 5;
 }

@@ -15,16 +15,15 @@ a{
 	margin-top: 2.5em;
 	left: 0;
 	color: #000;
-	border-right: 1px dotted dodgerblue;
 	z-index: 5;
-	overflow-y: scroll;
+	overflow-y: auto;
 }
 
 .sidebarHeadings{
-	font-family: arial; 
+	font-family: sans-serif;
 	color: white;
-	padding: 0.5em; 
-	background: dodgerblue
+	padding: 0.3em; 
+	background: #ED7D31;
 }
 #productArea{
 	left: 0; 
@@ -45,7 +44,7 @@ a{
 	
 }
 .catogeryList div{
-	padding: 1em;
+	padding: 0.9em;
 }
 .catogeryList div:hover{
 	background: rgba(30,144,255,0.8);
@@ -100,7 +99,7 @@ ul{
  
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: dodgerblue; 
+  background: #ED7D31; 
   border-radius: 10px;
   z-index: 5;
 }
