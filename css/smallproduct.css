@@ -18,7 +18,7 @@ a{
 	color: #000;
 	border-right: 1px dotted dodgerblue;
 	z-index: 5;
-	overflow-y: scroll;
+	overflow-y: auto;
 }
 
 .sidebarHeadings{
@@ -36,7 +36,7 @@ a{
 	margin-top: 14vh;
 	background: #fff;
 	margin-left: 110px;
-	overflow-y: scroll;
+	overflow-y: auto;
 }
 
 .catogeryList{
@@ -111,7 +111,7 @@ ul{
 	width:100px;
 	height: 100px;
 	background: #fff;
-	border: 1px dotted #fff;
+	border: 1px dotted #fdf;
 	/*padding-left: 0.5vmax;*/
 	text-align: left;
 	padding: 2vmax auto;
