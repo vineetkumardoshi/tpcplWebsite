@@ -16,7 +16,6 @@ a{
 	margin-top: 14vh;
 	left: 0;
 	color: #000;
-	border-right: 1px dotted dodgerblue;
 	z-index: 5;
 	overflow-y: auto;
 }
