@@ -17,4 +17,18 @@ var brandList = [
 "Value",
 "Vijay",
 "Whirlpool",
+"Dosea",
+"Rexnord",
+"Hicool",
+"Truflow",
+"Embraco",
+"Pali",
+"DIJ",
+"Uniweld",
+"Totaline",
+"Oxycoat",
+"BP Refcool",
+"Subzero",
 ];
+
+brandList.sort()

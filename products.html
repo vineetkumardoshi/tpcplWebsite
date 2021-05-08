@@ -44,10 +44,9 @@
 		
 		<div class="catogeryList">
 			<a href="#" onclick="showProduct(this)"><div>Airconditioning</div></a>
-			<a href="#" onclick="showProduct(this)"><div>Domestic <br>Refrigeration</div></a>
-			<a href="#" onclick="showProduct(this)"><div>Commercial <br>Refrigeration</div></a>
-			<a href="#" onclick="showProduct(this)"><div>HVAC & Industrial Refrigeration</div></a>
-			<a href="#" onclick="showProduct(this)"><div>Accessories</div></a>
+			<a href="#" onclick="showProduct(this)"><div>Domestic</div></a>
+			<a href="#" onclick="showProduct(this)"><div>HVAC & Commercial</div></a>
+			<a href="#" onclick="showProduct(this)"><div>Tools & Accessories</div></a>
 		</div></center>
 	<!-- 	<hr><br>
 	 -->	
@@ -65,6 +64,30 @@
 		<div class="social-icons" style="margin-right:2em"><a href="https://www.facebook.com/tarunpremiercorporation" target="_blank"><img src="img/fb.png" alt="fb-logo"></a></div>
 		<div class="social-icons"><a href="https://www.instagram.com/tarunpremiercorporation/" target="_blank"><img src="img/ig.png" alt="ig-logo" ></a></div>
 		<div class="social-icons"><a href="https://wa.link/42u0s8" target="_blank"><img src="img/wa.png" alt="wa-logo" ></a></div>
+	<!-- Messenger Chat plugin Code -->
+    <div id="fb-root"></div>
+      <script>
+        window.fbAsyncInit = function() {
+          FB.init({
+            xfbml            : true,
+            version          : 'v10.0'
+          });
+        };
+
+        (function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+      </script>
+
+      <!-- Your Chat plugin code -->
+      <div class="fb-customerchat"
+        attribution="page_inbox"
+        page_id="316721205397683">
+    </div>	
 	</footer>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 	<script type="text/javascript" src="js/script.js"></script>
