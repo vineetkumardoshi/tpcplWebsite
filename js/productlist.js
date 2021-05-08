@@ -19,6 +19,11 @@ var products = [
 ["AIPL PVC Insulation Tape", "AIPL", "Accessories"],
 ["AIPL BOPP Tape", "AIPL", "Accessories"],
 ["AIPL AB80", "AIPL", "Accessories"],
+["Value Recovery Unit", "Value", "Accessories"],
+["Value Refrigerant Scale", "Value", "Accessories"],
+["Value Single Gauge Manifold", "Value", "Accessories"],
+["Value Deburring Tool", "Value", "Accessories"],
+["Value Capillary Tube Plier", "Value", "Accessories"],
 ];
 products.sort()
 products.sort((a,b)=>{
