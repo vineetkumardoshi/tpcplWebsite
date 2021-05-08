@@ -10,7 +10,7 @@ a{
 .sidebar{
 	width: 20vw;
 	min-width: 101px;
-	height: 80vh;
+	height: calc(100vh - 14vh - 50px);
 	background: #fff;
 	position: absolute;
 	margin-top: 14vh;
@@ -164,7 +164,3 @@ ul{
     transform: rotate(90deg);
   }
 }*/
-.footer{
-	position: absolute;
-	overflow-y: hidden;
-}
