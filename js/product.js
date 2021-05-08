@@ -1,7 +1,7 @@
 
 var productAreaElement = document.getElementById("productArea")
 
-function showProduct(productClicked){
+var showProduct = (productClicked) => {
 
 		var productSelected = productClicked.children[0].textContent.trim(); //Removing unecessary tags to capture only name of product
 		productAreaElement.innerHTML = `<center><h1 class="productHeading">${productSelected}</h1></center><br><br>`
