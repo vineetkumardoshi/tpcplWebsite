@@ -1,5 +1,6 @@
 body{
 	background: #fff;
+	overflow: hidden;
 }
 a{
 	text-decoration: none;
@@ -9,7 +10,7 @@ a{
 .sidebar{
 	width: 20vw;
 	min-width: 101px;
-	height: 76vh;
+	height: 80vh;
 	background: #fff;
 	position: absolute;
 	margin-top: 14vh;
@@ -163,3 +164,7 @@ ul{
     transform: rotate(90deg);
   }
 }*/
+.footer{
+	position: absolute;
+	overflow-y: hidden;
+}
