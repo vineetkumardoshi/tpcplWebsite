@@ -14,5 +14,5 @@ function showProduct(productClicked){
 								 </div>`;	
 		}	
 	});
-	productAreaElement.innerHTML += "<br><br>"		
+	productAreaElement.innerHTML += "<br><br><br><br><br><br>"		
 }
