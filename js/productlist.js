@@ -152,6 +152,7 @@ var products = [
 ["G9 Spares OLP DRB","G9 Spares",d],
 ["G9 Spares Relay OLP Set Suitable For Godrej","G9 Spares",d],
 ["G9 Spares Relay OLP Set KOI","G9 Spares",d],
+["Gasman Long Neck Flare Nut","Gasman",h],
 ];
 products.sort()
 products.sort((a,b)=>{
