@@ -29,6 +29,7 @@ var brandList = [
 "Oxycoat",
 "BP Refcool",
 "Subzero",
+"Black Horse"
 ];
 
 brandList.sort()
