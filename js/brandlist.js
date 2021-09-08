@@ -1,6 +1,6 @@
 var brandList = [
 "AIPL",
-"Black Horse",
+"Iron Bull",
 "Danfoss",
 "Dry All",
 "EcoAB",
