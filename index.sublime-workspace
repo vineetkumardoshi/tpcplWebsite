@@ -1,0 +1,592 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"rea",
+				"readXlsxFile"
+			],
+			[
+				"o",
+				"option"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"Bene",
+				"BeneficiaryOption"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"Ben",
+				"BeneficiaryOption"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"B",
+				"Beneficiary"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"c",
+				"cover\tobject-fit"
+			],
+			[
+				"E",
+				"ELECTRIC"
+			],
+			[
+				"LTD",
+				"LTD"
+			],
+			[
+				"INDU",
+				"INDUSIND"
+			],
+			[
+				"LIST",
+				"LIST_SELECT"
+			],
+			[
+				"on",
+				"onkeyup"
+			],
+			[
+				"SLEC",
+				"Select"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"font-",
+				"font-weight\tproperty"
+			],
+			[
+				"TE",
+				"text-align\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"te",
+				"text-orientation\tproperty"
+			],
+			[
+				"DE",
+				"text-decoration\tproperty"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"S",
+				"Single"
+			],
+			[
+				"pro",
+				"productSelected"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"prod",
+				"productHeading"
+			],
+			[
+				"Prod",
+				"productHeading"
+			],
+			[
+				"produc",
+				"productHeading"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"p",
+				"productClicked"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"Acces",
+				"Accessories"
+			],
+			[
+				"Tube",
+				"Tubebender"
+			],
+			[
+				"Tub",
+				"Tubebender"
+			],
+			[
+				"Ec",
+				"EcoAB"
+			],
+			[
+				"nar",
+				"navbar"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"bo",
+				"bottom\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"tra",
+				"translateX()\ttransform"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"ea",
+				"ease-in-out\ttransition-timing-function"
+			],
+			[
+				"trans",
+				"transition-timing-function\tproperty"
+			],
+			[
+				"tran",
+				"transition-property\tproperty"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"i",
+				"initial\tposition"
+			],
+			[
+				"A",
+				"Accessories"
+			],
+			[
+				"brna",
+				"brandName"
+			],
+			[
+				"productArea",
+				"productAreaElement"
+			],
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"lsit",
+				"list-style\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"transitio",
+				"transition-property\tproperty"
+			],
+			[
+				"transi",
+				"transition-property\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"over",
+				"overflow-y\tproperty"
+			],
+			[
+				"pr",
+				"productName"
+			],
+			[
+				"po",
+				"productArea"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"t",
+				"translateY()\ttransform"
+			],
+			[
+				"b",
+				"bottom\tvertical-align"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"jus",
+				"justify-all\ttext-align"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"hea",
+				"header-right-border"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"onk",
+				"onkeyup\tAttr"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"le",
+				"padding-left\tproperty"
+			],
+			[
+				"ali",
+				"align-self\tproperty"
+			],
+			[
+				"cent",
+				"justify-content\tproperty"
+			],
+			[
+				"alig",
+				"align-content\tproperty"
+			],
+			[
+				"top",
+				"margin-top\tproperty"
+			],
+			[
+				"spac",
+				"letter-spacing\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"fone",
+				"font-size\tproperty"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"shad",
+				"box-shadow\tproperty"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"FON",
+				"font-weight\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/vinee/Desktop/testing.html",
+		"/C/Users/vinee/Desktop/New Text Document.html",
+		"/C/Users/vinee/Desktop/test.py",
+		"/C/Users/vinee/Desktop/Personal Folder/HTML Projects/RAIJADA GROUP/PrintoGraphicSolution/css/style.css",
+		"/C/Users/vinee/Desktop/Personal Folder/HTML Projects/RAIJADA GROUP/PrintoGraphicSolution/index.html",
+		"/C/Users/vinee/Desktop/Personal Folder/HTML Projects/NEFT AND RTGS/index.html",
+		"/C/Users/vinee/Desktop/TPCPL/NEFT/index.html",
+		"/C/Users/vinee/Desktop/Personal Folder/HTML Projects/TPCPL - HTML SITE 2023/templatemo_581_kind_heart_charity/templatemo_581_kind_heart_charity/index.html",
+		"/C/Users/vinee/Desktop/Personal Folder/HTML Projects/TPCPL - HTML SITE 2023/templatemo_581_kind_heart_charity/templatemo_581_kind_heart_charity/css/templatemo-kind-heart-charity.css",
+		"/C/Users/vinee/Desktop/Personal Folder/HTML Projects/TPCPL Website Github/tpcplWebsite/products.html",
+		"/C/Users/vinee/Desktop/Personal Folder/HTML Projects/TPCPL Website Github/tpcplWebsite/js/brand.js",
+		"/C/Users/vinee/Desktop/Personal Folder/HTML Projects/TPCPL Website Github/tpcplWebsite/css/product.css",
+		"/C/Users/vinee/Desktop/Personal Folder/HTML Projects/TPCPL Website Github/tpcplWebsite/js/product.js",
+		"/C/Users/vinee/Desktop/Personal Folder/HTML Projects/TPCPL Website Github/tpcplWebsite/js/brandlist.js",
+		"/C/Users/vinee/Desktop/Personal Folder/HTML Projects/TPCPL Website Github/tpcplWebsite/js/productlist.js",
+		"/C/Users/vinee/Desktop/Personal Folder/HTML Projects/material-kit-master/material-kit-master/index.html",
+		"/C/Users/vinee/Desktop/Personal Folder/HTML Projects/TPCPL Website Github - Copy/tpcplWebsite/js/script.js",
+		"/C/Users/vinee/Desktop/Personal Folder/HTML Projects/TPCPL Website Github - Copy/tpcplWebsite/index.html",
+		"/C/Users/vinee/Desktop/Personal Folder/HTML Projects/TPCPL Website Github/tpcplWebsite/index.html",
+		"/C/Users/vinee/Desktop/Personal Folder/HTML Projects/Company Website Beta/js/brandlist.js",
+		"/C/Users/vinee/Desktop/Personal Folder/HTML Projects/Company Website Beta/js/productlist.js",
+		"/C/Users/vinee/Desktop/Personal Folder/HTML Projects/Company Website Beta/js/brand.js",
+		"/C/Users/vinee/Desktop/Personal Folder/HTML Projects/Company Website Beta/js/product.js",
+		"/C/Users/vinee/Desktop/Personal Folder/HTML Projects/Company Website Beta/css/smallmain.css",
+		"/C/Users/vinee/Desktop/Personal Folder/HTML Projects/Company Website Beta/css/product.css",
+		"/C/Users/vinee/Desktop/Personal Folder/HTML Projects/Company Website Beta/css/smallproduct.css",
+		"/C/Users/vinee/Desktop/Personal Folder/HTML Projects/Company Website Beta/products.html",
+		"/C/Users/vinee/Desktop/Personal Folder/HTML Projects/Company Website Beta/css/main.css",
+		"/C/Users/vinee/Desktop/Personal Folder/HTML Projects/Company Website Beta/index.html",
+		"/C/Users/vinee/Desktop/Personal Folder/HTML Projects/Company Website Beta/js/script.js",
+		"/C/Users/vinee/PycharmProjects/firstprog/templates/layout.html",
+		"/C/Users/vinee/PycharmProjects/firstprog/templates/contact.html",
+		"/C/Users/vinee/PycharmProjects/firstprog/templates/about.html",
+		"/C/Users/vinee/PycharmProjects/firstprog/templates/index.html",
+		"/C/Users/vinee/PycharmProjects/firstprog/templates/bootstrap.html",
+		"/C/Users/vinee/Desktop/Personal Folder/HTML Projects/Cheque Declaration/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 144.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
